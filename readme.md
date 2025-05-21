@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-1. 在任意 url 前面加上 https://部署域名/ 例如 https://tomorrow.paperai.life/https://github.com/14790897（此域名已于2025年5月14号停止服务）
+1. 在任意 url 前面加上 https://部署域名/ 例如 https://tomorrow.paperai.life/https://github.com/14790897    （此域名已于2025年5月14号停止服务）
 
 ## 自己搭建步骤
 
